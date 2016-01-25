@@ -8,6 +8,7 @@
 #if !defined(SPIRIT_X3_BOOL_SEP_29_2009_0709AM)
 #define SPIRIT_X3_BOOL_SEP_29_2009_0709AM
 
+#include <boost/spirit/home/x3/char/char.hpp>
 #include <boost/spirit/home/x3/core/parser.hpp>
 #include <boost/spirit/home/x3/core/skip_over.hpp>
 #include <boost/spirit/home/x3/numeric/bool_policies.hpp>

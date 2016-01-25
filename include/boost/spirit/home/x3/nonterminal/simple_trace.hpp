@@ -19,6 +19,7 @@
 //  The stream to use for debug output
 #if !defined(BOOST_SPIRIT_X3_DEBUG_OUT)
 #define BOOST_SPIRIT_X3_DEBUG_OUT std::cerr
+#include <iostream>
 #endif
 
 //  number of tokens to print while debugging
